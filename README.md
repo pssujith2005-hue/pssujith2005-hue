@@ -58,8 +58,6 @@ A motivated BCA graduate specializing in **Full-Stack Web Development** using **
 
 ### 📊 GitHub Analytics
 
-⚠️ **Note:** If the card below doesn't load immediately, it will update as your public repository activity increases!
-
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pssujith2005-hue&theme=dark&hide_border=true" alt="Sujith's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pssujith2005-hue&show_icons=true&theme=dark&hide_border=true" alt="Sujith's GitHub Stats" />
 </p>
