@@ -1,6 +1,6 @@
 # Hi there, I'm Sujith P.S 👋
 
-## Full-Stack Web Developer & Data Analytics Specialist
+## Full-Stack Web Developer & Data Analytics 
 📍 Kottayam, Kerala, India
 
 An enthusiastic and motivated **Fresh Graduate** specializing in building clean, scalable applications with **Python and Django** alongside dynamic frontends using **HTML, CSS, and JavaScript**. Additionally, I possess a strong data mindset, utilizing **Power BI, Advanced Excel, and SQL (MySQL, SQLite)** to transform raw data into interactive dashboards and insights. 
