@@ -9,7 +9,7 @@ An enthusiastic and motivated **Fresh Graduate** specializing in building clean,
 
 ### 🚀 About Me
 
-- 🎓**MCA Student**(Affiliated with APJ Abdul kalam University)
+- 🎓**MCA Student**(Affiliated with APJ Abdul kalam Technological University)
 - 🎓 **Education:** BCA Graduate (2023–2026 Batch) from Swamy Saswathikananda College, Poothotta (Affiliated with MG University).
 - 💻 **Full-Stack Stack:** Extensive hands-on experience in **Python (Django)** backend routing, database connectivity, and clean **HTML/CSS/JS** UI design.
 - 📊 **Data Analytics:** Proficient in data cleaning, advanced lookups, subqueries, and building interactive enterprise dashboards with **Power BI and Excel**.
