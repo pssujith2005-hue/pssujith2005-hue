@@ -22,7 +22,7 @@ An enthusiastic and motivated **MCA Student & Tech Graduate** specializing in bu
 
 | Project | Core Tech Stack | Description | Link |
 | :--- | :--- | :--- | :--- |
-| **Aethel Learning Management System** | Python, Django, HTML/CSS, JS | A comprehensive web platform designed for students to manage courses, track learning progress, and streamline educational content delivery. | [Visit Repo](https://github.com/pssujith2005-hue) *(Update link if available)* |
+| **Aethel Learning Management System** | Python, Django, HTML/CSS, JS | A comprehensive web platform designed for students to manage courses, track learning progress, and streamline educational content delivery. | [Visit Repo](https://github.com/pssujith2005-hue/Aethel_lms) |
 | **Fuelpulse-BCA Main Project** | Python, Django, HTML/CSS | A smart tracking utility application featuring clean user routing, full database operations, and system performance optimizations. | [Visit Repo](https://github.com/pssujith2005-hue/Fuelpulse) |
 | **Executive Insights Platform** | Power BI, SQL, Excel | Interactive business intelligence dashboard featuring advanced lookups, conditional data cleansing, and deep aggregation pipelines. | [Visit Repo](https://github.com/pssujith2005-hue/Ecom-Executive-Insights-Platform) |
 | **AI Threat Pipeline** | Python, Core Security | A threat modeling and scanning backend framework built using automated behavioral data pipelines. | [Visit Repo](https://github.com/pssujith2005-hue/AI-Threat-Pipeline-Dashboard) |
