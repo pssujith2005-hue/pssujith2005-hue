@@ -3,21 +3,19 @@
 ## Full-Stack Web Developer & Data Analytics 
 📍 Kottayam, Kerala, India
 
-An enthusiastic and motivated **Fresh Graduate** specializing in building clean, scalable applications with **Python and Django** alongside dynamic frontends using **HTML, CSS, and JavaScript**. Additionally, I possess a strong data mindset, utilizing **Power BI, Advanced Excel, and SQL (MySQL, SQLite)** to transform raw data into interactive dashboards and insights. 
+An enthusiastic and motivated **MCA Student & Tech Graduate** specializing in building clean, scalable applications with **Python and Django** alongside dynamic frontends using **HTML, CSS, and JavaScript**. Additionally, I possess a strong data mindset, utilizing **Power BI, Advanced Excel, and SQL (MySQL, SQLite)** to transform raw data into interactive dashboards and insights. 
 
 ---
 
 ### 🚀 About Me
 
-- 🎓**MCA Student**- Sree NArayana Gurukulam College of Engineering(Affiliated with APJ Abdul kalam Technological University)
-- 🎓**BCA Graduate**-(2023–2026 Batch) from Swamy Saswathikananda College, Poothotta (Affiliated with MG University).
-- 💻**Full-Stack Stack:** Extensive hands-on experience in **Python (Django)** backend routing, database connectivity, and clean **HTML/CSS/JS** UI design.
+- 🎓 **MCA Student** — Sree Narayana Gurukulam College of Engineering (Affiliated with APJ Abdul Kalam Technological University).
+- 🎓 **BCA Graduate** — Swamy Saswathikananda College, Poothotta (Affiliated with MG University).
+- 💻 **Full-Stack Stack:** Extensive hands-on experience in **Python (Django)** backend routing, database connectivity, and clean **HTML/CSS/JS** UI design.
 - 📊 **Data Analytics:** Proficient in data cleaning, advanced lookups, subqueries, and building interactive enterprise dashboards with **Power BI and Excel**.
-- 🛠️ **Academic Projects:** Successfully delivered a 6-month full-scale web application implementing complete software lifecycles and technical documentation.
+- 🛠️ **Academic Projects:** Successfully delivered a full-scale web application implementing complete software lifecycles and technical documentation.
 - 🌱 **Learning & Goals:** Eager to launch my career in entry-level Software Development or Data Analyst roles where I can combine coding with analytics.
 - 🤝 **Open to:** Collaborations, internship opportunities, entry-level developer positions, and open-source project contributions.
-
----
 
 ### 🧩 Featured Projects
 
