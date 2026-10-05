@@ -10,8 +10,8 @@ An enthusiastic and motivated **Fresh Graduate** specializing in building clean,
 ### 🚀 About Me
 
 - 🎓**MCA Student**- Sree NArayana Gurukulam College of Engineering(Affiliated with APJ Abdul kalam Technological University)
-- 🎓 **Education:** BCA Graduate (2023–2026 Batch) from Swamy Saswathikananda College, Poothotta (Affiliated with MG University).
-- 💻 **Full-Stack Stack:** Extensive hands-on experience in **Python (Django)** backend routing, database connectivity, and clean **HTML/CSS/JS** UI design.
+- 🎓**BCA Graduate**-(2023–2026 Batch) from Swamy Saswathikananda College, Poothotta (Affiliated with MG University).
+- 💻**Full-Stack Stack:** Extensive hands-on experience in **Python (Django)** backend routing, database connectivity, and clean **HTML/CSS/JS** UI design.
 - 📊 **Data Analytics:** Proficient in data cleaning, advanced lookups, subqueries, and building interactive enterprise dashboards with **Power BI and Excel**.
 - 🛠️ **Academic Projects:** Successfully delivered a 6-month full-scale web application implementing complete software lifecycles and technical documentation.
 - 🌱 **Learning & Goals:** Eager to launch my career in entry-level Software Development or Data Analyst roles where I can combine coding with analytics.
