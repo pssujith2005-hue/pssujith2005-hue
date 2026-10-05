@@ -15,6 +15,7 @@ An enthusiastic and motivated **MCA Student & Tech Graduate** specializing in bu
 - 📊 **Data Analytics:** Proficient in data cleaning, advanced lookups, subqueries, and building interactive enterprise dashboards with **Power BI and Excel**.
 - 🛠️ **Academic Projects:** Successfully delivered a full-scale web application implementing complete software lifecycles and technical documentation.
 - 🌱 **Learning & Goals:** Eager to launch my career in entry-level Software Development or Data Analyst roles where I can combine coding with analytics.
+- 🏆 **Leadership & Community:** IEEE CIS Project Coordinator at Sree Narayana Gurukulam College of Engineering.
 - 🤝 **Open to:** Collaborations, internship opportunities, entry-level developer positions, and open-source project contributions.
 
 ### 🧩 Featured Projects
